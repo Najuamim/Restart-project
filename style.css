@@ -1,0 +1,112 @@
+body{
+    font-family: 'Bebas Neue', cursive;
+    margin: 0%;
+}
+
+p{
+    font-size: 12px;
+    color: gray;
+    
+}
+h3{
+  color: grey;
+} 
+ .sk{
+     padding-top: 20px;
+ }
+.orange{
+    color: orange;
+}
+.foodlink{
+   text-decoration: none;
+    border-radius: 20px;
+    padding: 5px;
+    background-image:linear-gradient( tomato, orange);
+    color: white;
+    margin: 10px;
+
+}
+.flexible{
+    display: flex;
+    margin-bottom: 50px;
+}
+.skip{
+    padding-left: 2%;
+    width: 50%;
+    height: 50%;
+
+}
+.skip img{
+width: 50%;
+}
+.contact{
+    padding-right: 2%;
+    width: 50%;
+    height: 50%;
+}
+.contact img{
+    padding-left: 10%;
+    width: 50%;
+}
+.part2{
+    background-image: url(images/shapes/7.png);
+    background-repeat: no-repeat;
+    height: 100%;
+}
+.part3{
+    text-align: center;
+}
+.part4{
+    margin-top: 50px;
+    height: 100%;
+    width: 100%;
+    margin-left: 20px;
+    margin-right: 20px;
+
+}
+.recipe{
+    border-radius: 5%;
+    height:50% ;
+    width: 28%;
+    float: left;
+    box-shadow: 10px 10px 40px rgb(122, 122, 122);
+    margin-left: 2%;
+    padding: 10px;
+    
+}
+.image{
+    padding: 2px;
+    width: 90%;
+    height: 50%;
+    border-radius: 10%;
+    margin: 4%;
+}
+
+.part5 {
+        border-radius: 5%;
+        height:10% ;
+        width:90%;
+        box-shadow: 1px 1px 1px rgb(122, 122, 122);
+        margin-left: 3%;
+        padding-right: 10px;
+        justify-content: center;
+        margin-top: 40%;
+       
+    }
+.sub{
+    border-radius: 5%;
+    width: 28%;
+    float: left;
+    margin-left: 5%;
+    text-align: center;
+    
+}
+
+.part6{
+    margin-top: 50%;
+    text-align: center;
+    background-color: black;
+    height: 100%;
+    width: 100%;
+    
+}
